@@ -1,6 +1,6 @@
 # personality_test
 
-A new Flutter project.
+This is a project done while learning flutter that adds up the scores of selected answer and displays a text according to the score that the user gets...
 
 ## Getting Started
 
